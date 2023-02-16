@@ -1,0 +1,389 @@
+{
+    "lyrics": [
+        {
+            "lyric": "♪",
+            "showAt": 0.0,
+            "hideAt": 8.650176048278809
+        },
+        {
+            "lyric": "Talkin' in my sleep at night\r",
+            "showAt": 8.650176048278809,
+            "hideAt": 10.550153732299805
+        },
+        {
+            "lyric": "Makin' myself crazy\r",
+            "showAt": 10.550153732299805,
+            "hideAt": 13.583541870117188
+        },
+        {
+            "lyric": "(Out of my mind, out of my mind)\r",
+            "showAt": 13.583541870117188,
+            "hideAt": 16.750246047973634
+        },
+        {
+            "lyric": "Wrote it down and read it out\r",
+            "showAt": 16.750246047973634,
+            "hideAt": 18.88338851928711
+        },
+        {
+            "lyric": "Hopin' it would save me\r",
+            "showAt": 18.88338851928711,
+            "hideAt": 21.816808700561525
+        },
+        {
+            "lyric": "(Too many times, too many times)\r",
+            "showAt": 21.816808700561525,
+            "hideAt": 24.999937057495118
+        },
+        {
+            "lyric": "My love",
+            "showAt": 24.999937057495118,
+            "hideAt": 27.16648292541504
+        },
+        {
+            "lyric": "He makes me feel like nobody else\r",
+            "showAt": 27.16648292541504,
+            "hideAt": 30.21653938293457
+        },
+        {
+            "lyric": "Nobody else\r",
+            "showAt": 30.21653938293457,
+            "hideAt": 32.7997932434082
+        },
+        {
+            "lyric": "But my love",
+            "showAt": 32.7997932434082,
+            "hideAt": 35.35004425048828
+        },
+        {
+            "lyric": "He doesn't love me, so I tell myself\r",
+            "showAt": 35.35004425048828,
+            "hideAt": 38.7834587097168
+        },
+        {
+            "lyric": "I tell myself\r",
+            "showAt": 38.7834587097168,
+            "hideAt": 40.38351058959961
+        },
+        {
+            "lyric": "\r",
+            "showAt": 40.38351058959961,
+            "hideAt": 41.8503532409668
+        },
+        {
+            "lyric": "One, don't pick up the phone\r",
+            "showAt": 41.8503532409668,
+            "hideAt": 43.96701431274414
+        },
+        {
+            "lyric": "You know he's only calling 'cause he's drunk and alone\r",
+            "showAt": 43.96701431274414,
+            "hideAt": 46.050472259521487
+        },
+        {
+            "lyric": "Two, don't let him in\r",
+            "showAt": 46.050472259521487,
+            "hideAt": 47.8342399597168
+        },
+        {
+            "lyric": "You'll have to kick him out again\r",
+            "showAt": 47.8342399597168,
+            "hideAt": 49.88401794433594
+        },
+        {
+            "lyric": "Three, don't be his friend\r",
+            "showAt": 49.88401794433594,
+            "hideAt": 51.934146881103519
+        },
+        {
+            "lyric": "You know you're gonna wake up in his bed in the morning\r",
+            "showAt": 51.934146881103519,
+            "hideAt": 54.98432159423828
+        },
+        {
+            "lyric": "And if you're under him, you ain't getting over him\r",
+            "showAt": 54.98432159423828,
+            "hideAt": 58.55112075805664
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 58.55112075805664,
+            "hideAt": 62.3012809753418
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 62.3012809753418,
+            "hideAt": 66.6345443725586
+        },
+        {
+            "lyric": "I gotta tell them to myself\r",
+            "showAt": 66.6345443725586,
+            "hideAt": 70.53399658203125
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 70.53399658203125,
+            "hideAt": 74.93344116210938
+        },
+        {
+            "lyric": "I gotta tell them to myself\r",
+            "showAt": 74.93344116210938,
+            "hideAt": 76.84982299804688
+        },
+        {
+            "lyric": "I keep pushin' forwards, but he keeps pullin' me backwards\r",
+            "showAt": 76.84982299804688,
+            "hideAt": 81.84930419921875
+        },
+        {
+            "lyric": "(Nowhere to turn) no way\r",
+            "showAt": 81.84930419921875,
+            "hideAt": 83.53255462646485
+        },
+        {
+            "lyric": "(Nowhere to turn) no\r",
+            "showAt": 83.53255462646485,
+            "hideAt": 85.03215789794922
+        },
+        {
+            "lyric": "Now I'm standing back from it, I finally see the pattern\r",
+            "showAt": 85.03215789794922,
+            "hideAt": 90.1817855834961
+        },
+        {
+            "lyric": "(I never learn, I never learn)\r",
+            "showAt": 90.1817855834961,
+            "hideAt": 93.0146255493164
+        },
+        {
+            "lyric": "But my love",
+            "showAt": 93.0146255493164,
+            "hideAt": 95.51434326171875
+        },
+        {
+            "lyric": "He doesn't love me, so I tell myself\r",
+            "showAt": 95.51434326171875,
+            "hideAt": 98.89727783203125
+        },
+        {
+            "lyric": "I tell myself\r",
+            "showAt": 98.89727783203125,
+            "hideAt": 100.18048095703125
+        },
+        {
+            "lyric": "I do, I do, I do\r",
+            "showAt": 100.18048095703125,
+            "hideAt": 101.89697265625
+        },
+        {
+            "lyric": "One, don't pick up the phone\r",
+            "showAt": 101.89697265625,
+            "hideAt": 103.78002166748047
+        },
+        {
+            "lyric": "You know he's only calling 'cause he's drunk and alone\r",
+            "showAt": 103.78002166748047,
+            "hideAt": 105.9798355102539
+        },
+        {
+            "lyric": "Two, don't let him in\r",
+            "showAt": 105.9798355102539,
+            "hideAt": 107.77960205078125
+        },
+        {
+            "lyric": "You'll have to kick him out again\r",
+            "showAt": 107.77960205078125,
+            "hideAt": 109.97928619384766
+        },
+        {
+            "lyric": "Three, don't be his friend\r",
+            "showAt": 109.97928619384766,
+            "hideAt": 112.02898406982422
+        },
+        {
+            "lyric": "You know you're gonna wake up in his bed in the morning\r",
+            "showAt": 112.02898406982422,
+            "hideAt": 114.92866516113281
+        },
+        {
+            "lyric": "And if you're under him, you ain't getting over him\r",
+            "showAt": 114.92866516113281,
+            "hideAt": 118.4949722290039
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 118.4949722290039,
+            "hideAt": 122.19448852539063
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 122.19448852539063,
+            "hideAt": 126.64386749267578
+        },
+        {
+            "lyric": "I gotta tell them to myself\r",
+            "showAt": 126.64386749267578,
+            "hideAt": 130.6268310546875
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 130.6268310546875,
+            "hideAt": 134.65977478027345
+        },
+        {
+            "lyric": "I gotta tell them to myself\r",
+            "showAt": 134.65977478027345,
+            "hideAt": 136.87625122070313
+        },
+        {
+            "lyric": "Practice makes perfect\r",
+            "showAt": 136.87625122070313,
+            "hideAt": 138.67604064941407
+        },
+        {
+            "lyric": "I'm still tryna' learn it by heart\r",
+            "showAt": 138.67604064941407,
+            "hideAt": 141.2424774169922
+        },
+        {
+            "lyric": "(I got new rules, I count 'em)\r",
+            "showAt": 141.2424774169922,
+            "hideAt": 145.20883178710938
+        },
+        {
+            "lyric": "Eat, sleep, and breathe it\r",
+            "showAt": 145.20883178710938,
+            "hideAt": 147.1421661376953
+        },
+        {
+            "lyric": "Rehearse and repeat it, 'cause I\r",
+            "showAt": 147.1421661376953,
+            "hideAt": 149.59178161621095
+        },
+        {
+            "lyric": "(I got new, I got new, I...)\r",
+            "showAt": 149.59178161621095,
+            "hideAt": 153.5414581298828
+        },
+        {
+            "lyric": "One, don't pick up the phone\r",
+            "showAt": 153.5414581298828,
+            "hideAt": 155.52447509765626
+        },
+        {
+            "lyric": "You know he's only calling 'cause he's drunk and alone\r",
+            "showAt": 155.52447509765626,
+            "hideAt": 157.64114379882813
+        },
+        {
+            "lyric": "Two, don't let him in\r",
+            "showAt": 157.64114379882813,
+            "hideAt": 159.5241241455078
+        },
+        {
+            "lyric": "You'll have to kick him out again\r",
+            "showAt": 159.5241241455078,
+            "hideAt": 161.50709533691407
+        },
+        {
+            "lyric": "Three, don't be his friend\r",
+            "showAt": 161.50709533691407,
+            "hideAt": 163.6403045654297
+        },
+        {
+            "lyric": "You know you're gonna wake up in his bed in the morning\r",
+            "showAt": 163.6403045654297,
+            "hideAt": 166.63990783691407
+        },
+        {
+            "lyric": "And if you're under him, you ain't getting over him\r",
+            "showAt": 166.63990783691407,
+            "hideAt": 170.30628967285157
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 170.30628967285157,
+            "hideAt": 173.9889678955078
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 173.9889678955078,
+            "hideAt": 176.85540771484376
+        },
+        {
+            "lyric": "(Oh, whoa-oh)\r",
+            "showAt": 176.85540771484376,
+            "hideAt": 178.3384246826172
+        },
+        {
+            "lyric": "I gotta tell them to myself\r",
+            "showAt": 178.3384246826172,
+            "hideAt": 182.23797607421876
+        },
+        {
+            "lyric": "I got new rules, I count 'em\r",
+            "showAt": 182.23797607421876,
+            "hideAt": 184.437744140625
+        },
+        {
+            "lyric": "(Baby, you know I count 'em)\r",
+            "showAt": 184.437744140625,
+            "hideAt": 186.4873504638672
+        },
+        {
+            "lyric": "I gotta tell them to myself\r",
+            "showAt": 186.4873504638672,
+            "hideAt": 188.58714294433595
+        },
+        {
+            "lyric": "Don't let him in, don't let him in\r",
+            "showAt": 188.58714294433595,
+            "hideAt": 190.48695373535157
+        },
+        {
+            "lyric": "Don't, don't, don't, don't\r",
+            "showAt": 190.48695373535157,
+            "hideAt": 192.50344848632813
+        },
+        {
+            "lyric": "Don't be his friend, don't be his friend\r",
+            "showAt": 192.50344848632813,
+            "hideAt": 194.66976928710938
+        },
+        {
+            "lyric": "Don't, don't, don't, don't\r",
+            "showAt": 194.66976928710938,
+            "hideAt": 196.8528594970703
+        },
+        {
+            "lyric": "Don't let him in, don't let him in\r",
+            "showAt": 196.8528594970703,
+            "hideAt": 198.80271911621095
+        },
+        {
+            "lyric": "Don't, don't, don't, don't\r",
+            "showAt": 198.80271911621095,
+            "hideAt": 200.81900024414063
+        },
+        {
+            "lyric": "Don't be his friend, don't be his friend\r",
+            "showAt": 200.81900024414063,
+            "hideAt": 202.85211181640626
+        },
+        {
+            "lyric": "Don't, don't, don't, don't\r",
+            "showAt": 202.85211181640626,
+            "hideAt": 204.5518341064453
+        },
+        {
+            "lyric": "You gettin' over him",
+            "showAt": 204.5518341064453,
+            "hideAt": 206.45162963867188
+        },
+        {
+            "lyric": "",
+            "showAt": 206.45162963867188,
+            "hideAt": 211.45162963867188
+        }
+    ]
+}

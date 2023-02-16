@@ -1,0 +1,609 @@
+{
+    "lyrics": [
+        {
+            "lyric": "♪",
+            "showAt": 0.0,
+            "hideAt": 4.999846935272217
+        },
+        {
+            "lyric": "Ha, ha, haaaa\r",
+            "showAt": 4.999846935272217,
+            "hideAt": 9.799962997436524
+        },
+        {
+            "lyric": "Pump it\r",
+            "showAt": 9.799962997436524,
+            "hideAt": 11.383378982543946
+        },
+        {
+            "lyric": "Ha, ha, haaaa\r",
+            "showAt": 11.383378982543946,
+            "hideAt": 15.883254051208496
+        },
+        {
+            "lyric": "And pump it (louder)\r",
+            "showAt": 15.883254051208496,
+            "hideAt": 17.4499568939209
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 17.4499568939209,
+            "hideAt": 19.033231735229493
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 19.033231735229493,
+            "hideAt": 20.61648178100586
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 20.61648178100586,
+            "hideAt": 22.549793243408204
+        },
+        {
+            "lyric": "Turn up the radio\r",
+            "showAt": 22.549793243408204,
+            "hideAt": 23.933149337768556
+        },
+        {
+            "lyric": "Blast your stereo\r",
+            "showAt": 23.933149337768556,
+            "hideAt": 25.499671936035158
+        },
+        {
+            "lyric": "Right \r",
+            "showAt": 25.499671936035158,
+            "hideAt": 27.449634552001954
+        },
+        {
+            "lyric": "(Ha, ha, ha)\r",
+            "showAt": 27.449634552001954,
+            "hideAt": 28.616331100463868
+        },
+        {
+            "lyric": "Niggas wanna hate on us (who?)\r",
+            "showAt": 28.616331100463868,
+            "hideAt": 30.61627769470215
+        },
+        {
+            "lyric": "Niggas be envious (who?)\r",
+            "showAt": 30.61627769470215,
+            "hideAt": 32.016239166259769
+        },
+        {
+            "lyric": "And I know why they hating on us (why?)\r",
+            "showAt": 32.016239166259769,
+            "hideAt": 33.41630554199219
+        },
+        {
+            "lyric": "Cause that's so fabulous (what?)\r",
+            "showAt": 33.41630554199219,
+            "hideAt": 35.2829704284668
+        },
+        {
+            "lyric": "I'ma be real on us (c'mon)\r",
+            "showAt": 35.2829704284668,
+            "hideAt": 36.71649169921875
+        },
+        {
+            "lyric": "Nobody got nothing on us (no)\r",
+            "showAt": 36.71649169921875,
+            "hideAt": 38.41655731201172
+        },
+        {
+            "lyric": "Girls be all on us from London back down to the US (s, s)\r",
+            "showAt": 38.41655731201172,
+            "hideAt": 41.650115966796878
+        },
+        {
+            "lyric": "We rockin' this (contagious)\r",
+            "showAt": 41.650115966796878,
+            "hideAt": 43.183494567871097
+        },
+        {
+            "lyric": "Monkey business (outrageous)\r",
+            "showAt": 43.183494567871097,
+            "hideAt": 44.63352584838867
+        },
+        {
+            "lyric": "Just confess, your girl admits that we the shit\r",
+            "showAt": 44.63352584838867,
+            "hideAt": 47.216941833496097
+        },
+        {
+            "lyric": "F-R-E-S-H we (fresh)\r",
+            "showAt": 47.216941833496097,
+            "hideAt": 49.000526428222659
+        },
+        {
+            "lyric": "D-E-F, that's right we def (rock)\r",
+            "showAt": 49.000526428222659,
+            "hideAt": 50.50051498413086
+        },
+        {
+            "lyric": "We definite, B-E-P we reppin' it\r",
+            "showAt": 50.50051498413086,
+            "hideAt": 53.350807189941409
+        },
+        {
+            "lyric": "So\r",
+            "showAt": 53.350807189941409,
+            "hideAt": 54.0340461730957
+        },
+        {
+            "lyric": "Turn me up (turn it up)\r",
+            "showAt": 54.0340461730957,
+            "hideAt": 55.31740951538086
+        },
+        {
+            "lyric": "Turn me up (turn it up)\r",
+            "showAt": 55.31740951538086,
+            "hideAt": 57.067413330078128
+        },
+        {
+            "lyric": "Turn me up (turn it up)\r",
+            "showAt": 57.067413330078128,
+            "hideAt": 58.73417663574219
+        },
+        {
+            "lyric": "Come on baby just\r",
+            "showAt": 58.73417663574219,
+            "hideAt": 59.73423385620117
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 59.73423385620117,
+            "hideAt": 61.250911712646487
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 61.250911712646487,
+            "hideAt": 62.85097885131836
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 62.85097885131836,
+            "hideAt": 64.551025390625
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 64.551025390625,
+            "hideAt": 65.96756744384766
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 65.96756744384766,
+            "hideAt": 67.41741943359375
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 67.41741943359375,
+            "hideAt": 68.98419189453125
+        },
+        {
+            "lyric": "And say\r",
+            "showAt": 68.98419189453125,
+            "hideAt": 69.55054473876953
+        },
+        {
+            "lyric": "oh oh oh oh\r",
+            "showAt": 69.55054473876953,
+            "hideAt": 70.6504135131836
+        },
+        {
+            "lyric": "Say\r",
+            "showAt": 70.6504135131836,
+            "hideAt": 71.18370819091797
+        },
+        {
+            "lyric": "oh oh oh oh\r",
+            "showAt": 71.18370819091797,
+            "hideAt": 72.11695861816406
+        },
+        {
+            "lyric": "Yo, yo\r",
+            "showAt": 72.11695861816406,
+            "hideAt": 72.48355865478516
+        },
+        {
+            "lyric": "Turn up the radio\r",
+            "showAt": 72.48355865478516,
+            "hideAt": 74.05008697509766
+        },
+        {
+            "lyric": "Blast your stereo\r",
+            "showAt": 74.05008697509766,
+            "hideAt": 75.39986419677735
+        },
+        {
+            "lyric": "Right now\r",
+            "showAt": 75.39986419677735,
+            "hideAt": 78.68276977539063
+        },
+        {
+            "lyric": "This joint is fizzlin'\r",
+            "showAt": 78.68276977539063,
+            "hideAt": 80.3993148803711
+        },
+        {
+            "lyric": "It's sizzlin' right\r",
+            "showAt": 80.3993148803711,
+            "hideAt": 83.51614379882813
+        },
+        {
+            "lyric": "Yo check this out right here\r",
+            "showAt": 83.51614379882813,
+            "hideAt": 84.89888763427735
+        },
+        {
+            "lyric": "Dude wanna hate on us (dude)\r",
+            "showAt": 84.89888763427735,
+            "hideAt": 86.76531982421875
+        },
+        {
+            "lyric": "Dude need to ease on up (dude)\r",
+            "showAt": 86.76531982421875,
+            "hideAt": 88.28178405761719
+        },
+        {
+            "lyric": "Dude wanna act on up\r",
+            "showAt": 88.28178405761719,
+            "hideAt": 89.7649917602539
+        },
+        {
+            "lyric": "But dude get shut like flava shut (down)\r",
+            "showAt": 89.7649917602539,
+            "hideAt": 90.99799346923828
+        },
+        {
+            "lyric": "Chick say she ain't down\r",
+            "showAt": 90.99799346923828,
+            "hideAt": 92.714599609375
+        },
+        {
+            "lyric": "But chick backstage when we in town (ha)\r",
+            "showAt": 92.714599609375,
+            "hideAt": 94.3814926147461
+        },
+        {
+            "lyric": "She like man on drum (boom)\r",
+            "showAt": 94.3814926147461,
+            "hideAt": 95.88084411621094
+        },
+        {
+            "lyric": "She wanna hit n' run (err)\r",
+            "showAt": 95.88084411621094,
+            "hideAt": 97.69735717773438
+        },
+        {
+            "lyric": "Yeah, that's the speed\r",
+            "showAt": 97.69735717773438,
+            "hideAt": 98.63053131103516
+        },
+        {
+            "lyric": "That's how we do, that's who we be",
+            "showAt": 98.63053131103516,
+            "hideAt": 100.74700164794922
+        },
+        {
+            "lyric": "B-L-A-C-K E-Y-E-D P to the E\r",
+            "showAt": 100.74700164794922,
+            "hideAt": 103.5299301147461
+        },
+        {
+            "lyric": "Then the A to the S\r",
+            "showAt": 103.5299301147461,
+            "hideAt": 105.12981414794922
+        },
+        {
+            "lyric": "When we play you shake your ass\r",
+            "showAt": 105.12981414794922,
+            "hideAt": 106.6297378540039
+        },
+        {
+            "lyric": "Shake it, shake it, shake it girl\r",
+            "showAt": 106.6297378540039,
+            "hideAt": 108.0629653930664
+        },
+        {
+            "lyric": "Make sure you don't break it, girl\r",
+            "showAt": 108.0629653930664,
+            "hideAt": 109.62934875488281
+        },
+        {
+            "lyric": "Cause we gonna\r",
+            "showAt": 109.62934875488281,
+            "hideAt": 110.39591217041016
+        },
+        {
+            "lyric": "Turn it up (turn it up)\r",
+            "showAt": 110.39591217041016,
+            "hideAt": 112.04566192626953
+        },
+        {
+            "lyric": "Turn it up (turn it up)\r",
+            "showAt": 112.04566192626953,
+            "hideAt": 113.49552917480469
+        },
+        {
+            "lyric": "Turn it up (turn it up)\r",
+            "showAt": 113.49552917480469,
+            "hideAt": 114.96204376220703
+        },
+        {
+            "lyric": "Come on baby just\r",
+            "showAt": 114.96204376220703,
+            "hideAt": 116.0451889038086
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 116.0451889038086,
+            "hideAt": 117.61170959472656
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 117.61170959472656,
+            "hideAt": 119.2783203125
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 119.2783203125,
+            "hideAt": 120.74478149414063
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 120.74478149414063,
+            "hideAt": 122.29460906982422
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 122.29460906982422,
+            "hideAt": 123.8276596069336
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 123.8276596069336,
+            "hideAt": 125.16092681884766
+        },
+        {
+            "lyric": "And say\r",
+            "showAt": 125.16092681884766,
+            "hideAt": 125.76081848144531
+        },
+        {
+            "lyric": "oh oh oh oh\r",
+            "showAt": 125.76081848144531,
+            "hideAt": 126.7607192993164
+        },
+        {
+            "lyric": "Say\r",
+            "showAt": 126.7607192993164,
+            "hideAt": 127.4106216430664
+        },
+        {
+            "lyric": " oh oh oh oh\r",
+            "showAt": 127.4106216430664,
+            "hideAt": 128.32708740234376
+        },
+        {
+            "lyric": "Yo, yo\r",
+            "showAt": 128.32708740234376,
+            "hideAt": 128.84371948242188
+        },
+        {
+            "lyric": "Turn up the radio\r",
+            "showAt": 128.84371948242188,
+            "hideAt": 130.3269500732422
+        },
+        {
+            "lyric": "Blast your stereo\r",
+            "showAt": 130.3269500732422,
+            "hideAt": 131.57687377929688
+        },
+        {
+            "lyric": "Right now\r",
+            "showAt": 131.57687377929688,
+            "hideAt": 135.059814453125
+        },
+        {
+            "lyric": "This joint is fizzlin'\r",
+            "showAt": 135.059814453125,
+            "hideAt": 136.82627868652345
+        },
+        {
+            "lyric": "It's sizzlin'\r",
+            "showAt": 136.82627868652345,
+            "hideAt": 137.876220703125
+        },
+        {
+            "lyric": "Right\r",
+            "showAt": 137.876220703125,
+            "hideAt": 141.642822265625
+        },
+        {
+            "lyric": "Damn (dayum)\r",
+            "showAt": 141.642822265625,
+            "hideAt": 143.1590118408203
+        },
+        {
+            "lyric": "Damn (dayum)\r",
+            "showAt": 143.1590118408203,
+            "hideAt": 144.59226989746095
+        },
+        {
+            "lyric": "Damn (dayum)\r",
+            "showAt": 144.59226989746095,
+            "hideAt": 146.27537536621095
+        },
+        {
+            "lyric": "Damn (dayum) (Oh)\r",
+            "showAt": 146.27537536621095,
+            "hideAt": 147.89183044433595
+        },
+        {
+            "lyric": "Damn (dayum) (Oh)\r",
+            "showAt": 147.89183044433595,
+            "hideAt": 150.40817260742188
+        },
+        {
+            "lyric": "Apl.De.Ap from the Philippines\r",
+            "showAt": 150.40817260742188,
+            "hideAt": 151.6746826171875
+        },
+        {
+            "lyric": "Live and direct, rocking this scene\r",
+            "showAt": 151.6746826171875,
+            "hideAt": 153.60777282714845
+        },
+        {
+            "lyric": "Breaking on down for the B-boys\r",
+            "showAt": 153.60777282714845,
+            "hideAt": 154.69100952148438
+        },
+        {
+            "lyric": "And B-girls waiting to do they thing\r",
+            "showAt": 154.69100952148438,
+            "hideAt": 156.64085388183595
+        },
+        {
+            "lyric": "Pump it, louder come on\r",
+            "showAt": 156.64085388183595,
+            "hideAt": 158.2239227294922
+        },
+        {
+            "lyric": "Don't stop, and keep it goin'\r",
+            "showAt": 158.2239227294922,
+            "hideAt": 159.82371520996095
+        },
+        {
+            "lyric": "Do it, let's get it on\r",
+            "showAt": 159.82371520996095,
+            "hideAt": 161.32362365722657
+        },
+        {
+            "lyric": "Move it!\r",
+            "showAt": 161.32362365722657,
+            "hideAt": 161.74029541015626
+        },
+        {
+            "lyric": "Come on, baby, do it (Ha)\r",
+            "showAt": 161.74029541015626,
+            "hideAt": 163.40673828125
+        },
+        {
+            "lyric": "La-da-di-da-da-di-da\r",
+            "showAt": 163.40673828125,
+            "hideAt": 166.9896697998047
+        },
+        {
+            "lyric": "On the stere-ere-ere-ere-o (Ha)\r",
+            "showAt": 166.9896697998047,
+            "hideAt": 169.7226104736328
+        },
+        {
+            "lyric": "Let those speakers blow your mind (Blow my mind baby)\r",
+            "showAt": 169.7226104736328,
+            "hideAt": 173.5556182861328
+        },
+        {
+            "lyric": "Just let it go, let it go, here we go (ha)\r",
+            "showAt": 173.5556182861328,
+            "hideAt": 176.0886993408203
+        },
+        {
+            "lyric": "La-da-di-da-da-di-da (come on, yeah)\r",
+            "showAt": 176.0886993408203,
+            "hideAt": 179.5382843017578
+        },
+        {
+            "lyric": "On the radi-adi-adi-adi-o (ha)\r",
+            "showAt": 179.5382843017578,
+            "hideAt": 182.13809204101563
+        },
+        {
+            "lyric": "The system's gonna feel so fi-i-i-i-i-i-ine (I'm fine, yeah, I'm fine and you?)\r",
+            "showAt": 182.13809204101563,
+            "hideAt": 187.72091674804688
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 187.72091674804688,
+            "hideAt": 189.387451171875
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 189.387451171875,
+            "hideAt": 190.95394897460938
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 190.95394897460938,
+            "hideAt": 192.4536590576172
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 192.4536590576172,
+            "hideAt": 194.05361938476563
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 194.05361938476563,
+            "hideAt": 195.55331420898438
+        },
+        {
+            "lyric": "Pump it (louder)\r",
+            "showAt": 195.55331420898438,
+            "hideAt": 197.2032012939453
+        },
+        {
+            "lyric": "And say, oh oh oh oh\r",
+            "showAt": 197.2032012939453,
+            "hideAt": 198.8030242919922
+        },
+        {
+            "lyric": "Say, oh oh oh oh\r",
+            "showAt": 198.8030242919922,
+            "hideAt": 200.11949157714845
+        },
+        {
+            "lyric": "Yo, yo\r",
+            "showAt": 200.11949157714845,
+            "hideAt": 200.56944274902345
+        },
+        {
+            "lyric": "Turn up the radio\r",
+            "showAt": 200.56944274902345,
+            "hideAt": 202.38595581054688
+        },
+        {
+            "lyric": "Blast your stereo\r",
+            "showAt": 202.38595581054688,
+            "hideAt": 203.3858184814453
+        },
+        {
+            "lyric": "Right now (ha)\r",
+            "showAt": 203.3858184814453,
+            "hideAt": 206.86886596679688
+        },
+        {
+            "lyric": "This joint is fizzlin'\r",
+            "showAt": 206.86886596679688,
+            "hideAt": 208.71875
+        },
+        {
+            "lyric": "It's sizzlin'\r",
+            "showAt": 208.71875,
+            "hideAt": 209.61866760253907
+        },
+        {
+            "lyric": "Right\r",
+            "showAt": 209.61866760253907,
+            "hideAt": 212.03515625
+        },
+        {
+            "lyric": "",
+            "showAt": 212.03515625,
+            "hideAt": 217.03515625
+        }
+    ]
+}

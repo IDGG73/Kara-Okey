@@ -1,0 +1,434 @@
+{
+    "lyrics": [
+        {
+            "lyric": "♪",
+            "showAt": 0.00,
+            "hideAt": 5.50
+        },
+        {
+            "lyric": "What an amazing time",
+            "showAt": 5.50,
+            "hideAt": 8.50
+        },
+        {
+            "lyric": "What a family",
+            "showAt": 8.50,
+            "hideAt": 12.267192840576172
+        },
+        {
+            "lyric": "How did the years go by?",
+            "showAt": 12.267192840576172,
+            "hideAt": 16.1253662109375
+        },
+        {
+            "lyric": "Now it's only me...",
+            "showAt": 16.1253662109375,
+            "hideAt": 20.9188289642334
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 20.9188289642334,
+            "hideAt": 21.851844787597658
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 21.851844787597658,
+            "hideAt": 22.7698917388916
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 22.7698917388916,
+            "hideAt": 23.607711791992189
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 23.607711791992189,
+            "hideAt": 24.442474365234376
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 24.442474365234376,
+            "hideAt": 25.4100341796875
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 25.4100341796875,
+            "hideAt": 26.277868270874025
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 26.277868270874025,
+            "hideAt": 27.172077178955079
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 27.172077178955079,
+            "hideAt": 27.91928482055664
+        },
+        {
+            "lyric": "La-la-la-la-la-la-la",
+            "showAt": 27.91928482055664,
+            "hideAt": 31.518970489501954
+        },
+        {
+            "lyric": "Like a cat in heat stuck in a moving car",
+            "showAt": 31.518970489501954,
+            "hideAt": 34.88569259643555
+        },
+        {
+            "lyric": "A scary conversation, shut my eyes, can't find the brake",
+            "showAt": 34.88569259643555,
+            "hideAt": 38.580631256103519
+        },
+        {
+            "lyric": "What if they say that you're a climber?",
+            "showAt": 38.580631256103519,
+            "hideAt": 42.11878967285156
+        },
+        {
+            "lyric": "Naturally, I'm worried if I do it alone",
+            "showAt": 42.11878967285156,
+            "hideAt": 44.998661041259769
+        },
+        {
+            "lyric": "Who really cares, 'cause it's your life",
+            "showAt": 44.998661041259769,
+            "hideAt": 46.77836990356445
+        },
+        {
+            "lyric": "You never know, it could be great",
+            "showAt": 46.77836990356445,
+            "hideAt": 49.11656188964844
+        },
+        {
+            "lyric": "Take a chance 'cause you might grow",
+            "showAt": 49.11656188964844,
+            "hideAt": 52.62431716918945
+        },
+        {
+            "lyric": "Oh, oh- oh~",
+            "showAt": 52.62431716918945,
+            "hideAt": 56.53208923339844
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 56.53208923339844,
+            "hideAt": 57.5150032043457
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 57.5150032043457,
+            "hideAt": 58.41177749633789
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 58.41177749633789,
+            "hideAt": 59.357032775878909
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 59.357032775878909,
+            "hideAt": 60.22235870361328
+        },
+        {
+            "lyric": "What you waiting for?",
+            "showAt": 60.22235870361328,
+            "hideAt": 63.60089111328125
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 63.60089111328125,
+            "hideAt": 64.57970428466797
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 64.57970428466797,
+            "hideAt": 65.44676971435547
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 65.44676971435547,
+            "hideAt": 66.35123443603516
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 66.35123443603516,
+            "hideAt": 67.17108154296875
+        },
+        {
+            "lyric": "What you waiting for?",
+            "showAt": 67.17108154296875,
+            "hideAt": 70.39154052734375
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 70.39154052734375,
+            "hideAt": 71.25635528564453
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 71.25635528564453,
+            "hideAt": 72.13277435302735
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 72.13277435302735,
+            "hideAt": 72.9867935180664
+        },
+        {
+            "lyric": "Tick, tock",
+            "showAt": 72.9867935180664,
+            "hideAt": 73.7925796508789
+        },
+        {
+            "lyric": "Take a chance you stupid hoe",
+            "showAt": 73.7925796508789,
+            "hideAt": 77.36204528808594
+        },
+        {
+            "lyric": "Like an echo pedal, you're repeating yourself",
+            "showAt": 77.36204528808594,
+            "hideAt": 80.74309539794922
+        },
+        {
+            "lyric": "You know it all by heart, why are you standing in one place?",
+            "showAt": 80.74309539794922,
+            "hideAt": 84.38722229003906
+        },
+        {
+            "lyric": "Born to blossom, bloom to perish",
+            "showAt": 84.38722229003906,
+            "hideAt": 87.8965835571289
+        },
+        {
+            "lyric": "Your moment will run out 'cause of your sex chromosome",
+            "showAt": 87.8965835571289,
+            "hideAt": 91.33294677734375
+        },
+        {
+            "lyric": "I know it's so messed up how our society all thinks",
+            "showAt": 91.33294677734375,
+            "hideAt": 95.0014877319336
+        },
+        {
+            "lyric": "Life is short you're capable",
+            "showAt": 95.0014877319336,
+            "hideAt": 98.58470916748047
+        },
+        {
+            "lyric": "Oh, oh- oh~",
+            "showAt": 98.58470916748047,
+            "hideAt": 101.4190444946289
+        },
+        {
+            "lyric": "Oh- oh",
+            "showAt": 101.4190444946289,
+            "hideAt": 103.15324401855469
+        },
+        {
+            "lyric": "Oh- oh",
+            "showAt": 103.15324401855469,
+            "hideAt": 103.853759765625
+        },
+        {
+            "lyric": "Look at your watch now",
+            "showAt": 103.853759765625,
+            "hideAt": 106.79930877685547
+        },
+        {
+            "lyric": "You're still a super-hot female",
+            "showAt": 106.79930877685547,
+            "hideAt": 110.25609588623047
+        },
+        {
+            "lyric": "You got your million dollar contract",
+            "showAt": 110.25609588623047,
+            "hideAt": 113.7334976196289
+        },
+        {
+            "lyric": "And they're all waiting for your hot track!",
+            "showAt": 113.7334976196289,
+            "hideAt": 116.4992904663086
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 116.4992904663086,
+            "hideAt": 117.53250885009766
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 117.53250885009766,
+            "hideAt": 118.37902069091797
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 118.37902069091797,
+            "hideAt": 119.334228515625
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 119.334228515625,
+            "hideAt": 120.1502914428711
+        },
+        {
+            "lyric": "What you waiting for?",
+            "showAt": 120.1502914428711,
+            "hideAt": 123.65016174316406
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 123.65016174316406,
+            "hideAt": 124.567626953125
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 124.567626953125,
+            "hideAt": 125.43516540527344
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 125.43516540527344,
+            "hideAt": 126.3438720703125
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 126.3438720703125,
+            "hideAt": 127.24662780761719
+        },
+        {
+            "lyric": "What you waiting for?",
+            "showAt": 127.24662780761719,
+            "hideAt": 130.4112091064453
+        },
+        {
+            "lyric": "I can't wait to go",
+            "showAt": 130.4112091064453,
+            "hideAt": 135.49118041992188
+        },
+        {
+            "lyric": "Back and do Japan",
+            "showAt": 135.49118041992188,
+            "hideAt": 139.1151885986328
+        },
+        {
+            "lyric": "Get me lots of brand new fans",
+            "showAt": 139.1151885986328,
+            "hideAt": 144.142333984375
+        },
+        {
+            "lyric": "Osaka, Tokyo",
+            "showAt": 144.142333984375,
+            "hideAt": 149.40042114257813
+        },
+        {
+            "lyric": "You Harajuku girls",
+            "showAt": 149.40042114257813,
+            "hideAt": 153.13201904296876
+        },
+        {
+            "lyric": "Damn, you've got some wicked style",
+            "showAt": 153.13201904296876,
+            "hideAt": 158.4506378173828
+        },
+        {
+            "lyric": "Go!",
+            "showAt": 158.4506378173828,
+            "hideAt": 160.08523559570313
+        },
+        {
+            "lyric": "And look at your watch now",
+            "showAt": 160.08523559570313,
+            "hideAt": 163.23129272460938
+        },
+        {
+            "lyric": "You're still a super-hot female",
+            "showAt": 163.23129272460938,
+            "hideAt": 166.644775390625
+        },
+        {
+            "lyric": "You got your million dollar contract",
+            "showAt": 166.644775390625,
+            "hideAt": 170.2174835205078
+        },
+        {
+            "lyric": "And they're all waiting for your hot track!",
+            "showAt": 170.2174835205078,
+            "hideAt": 172.9401092529297
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 172.9401092529297,
+            "hideAt": 173.91868591308595
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 173.91868591308595,
+            "hideAt": 174.85342407226563
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 174.85342407226563,
+            "hideAt": 175.74879455566407
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 175.74879455566407,
+            "hideAt": 176.56809997558595
+        },
+        {
+            "lyric": "What you waiting for?",
+            "showAt": 176.56809997558595,
+            "hideAt": 180.20852661132813
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 180.20852661132813,
+            "hideAt": 181.07913208007813
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 181.07913208007813,
+            "hideAt": 182.04324340820313
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 182.04324340820313,
+            "hideAt": 182.88185119628907
+        },
+        {
+            "lyric": "What you waiting?",
+            "showAt": 182.88185119628907,
+            "hideAt": 183.72462463378907
+        },
+        {
+            "lyric": "What you waiting for?",
+            "showAt": 183.72462463378907,
+            "hideAt": 186.655029296875
+        },
+        {
+            "lyric": "♪",
+            "showAt": 186.655029296875,
+            "hideAt": 190.26284790039063
+        },
+        {
+            "lyric": "Take a chance you stupid hoe",
+            "showAt": 190.26284790039063,
+            "hideAt": 197.3682098388672
+        },
+        {
+            "lyric": "Take a chance you stupid hoe",
+            "showAt": 197.3682098388672,
+            "hideAt": 204.4302520751953
+        },
+        {
+            "lyric": "Take a chance you stupid hoe",
+            "showAt": 204.4302520751953,
+            "hideAt": 211.49295043945313
+        },
+        {
+            "lyric": "Take a chance you stupid hoe",
+            "showAt": 211.49295043945313,
+            "hideAt": 215.00
+        }
+    ]
+}

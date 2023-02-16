@@ -1,0 +1,289 @@
+{
+    "lyrics": [
+        {
+            "lyric": "Just a young gun with a quick fuse",
+            "showAt": 0.0,
+            "hideAt": 3.0022387504577638
+        },
+        {
+            "lyric": "I was uptight, wanna let loose\r",
+            "showAt": 3.0022387504577638,
+            "hideAt": 5.921706199645996
+        },
+        {
+            "lyric": "I was dreaming of bigger things and\r",
+            "showAt": 5.921706199645996,
+            "hideAt": 8.573555946350098
+        },
+        {
+            "lyric": "Wanna leave my own life behind\r",
+            "showAt": 8.573555946350098,
+            "hideAt": 11.59245777130127
+        },
+        {
+            "lyric": "Not a \"Yes sir\", not a follower\r",
+            "showAt": 11.59245777130127,
+            "hideAt": 14.394591331481934
+        },
+        {
+            "lyric": "Fit the box, fit the mold\r",
+            "showAt": 14.394591331481934,
+            "hideAt": 15.929222106933594
+        },
+        {
+            "lyric": "Have a seat in the foyer, take a number\r",
+            "showAt": 15.929222106933594,
+            "hideAt": 19.331708908081056
+        },
+        {
+            "lyric": "I was lightning before the thunder\r",
+            "showAt": 19.331708908081056,
+            "hideAt": 21.950458526611329
+        },
+        {
+            "lyric": "Thunder, thunder\r",
+            "showAt": 21.950458526611329,
+            "hideAt": 24.118797302246095
+        },
+        {
+            "lyric": "Thunder, thun-, thunder\r",
+            "showAt": 24.118797302246095,
+            "hideAt": 26.53683853149414
+        },
+        {
+            "lyric": "Thun-thun-thunder, thunder\r",
+            "showAt": 26.53683853149414,
+            "hideAt": 28.43871307373047
+        },
+        {
+            "lyric": "Thunder, thunder, thun-, thunder\r",
+            "showAt": 28.43871307373047,
+            "hideAt": 32.3248176574707
+        },
+        {
+            "lyric": "Thun-thun-thunder, thunder\r",
+            "showAt": 32.3248176574707,
+            "hideAt": 34.40945816040039
+        },
+        {
+            "lyric": "Thunder, feel the thunder\r",
+            "showAt": 34.40945816040039,
+            "hideAt": 37.29532241821289
+        },
+        {
+            "lyric": "Lightning and the thunder\r",
+            "showAt": 37.29532241821289,
+            "hideAt": 39.91404342651367
+        },
+        {
+            "lyric": "Thunder, feel the thunder\r",
+            "showAt": 39.91404342651367,
+            "hideAt": 43.182979583740237
+        },
+        {
+            "lyric": "Lightning and the thunder\r",
+            "showAt": 43.182979583740237,
+            "hideAt": 44.85091781616211
+        },
+        {
+            "lyric": "Thunder, thunder\r",
+            "showAt": 44.85091781616211,
+            "hideAt": 48.28694534301758
+        },
+        {
+            "lyric": "Thunder\r",
+            "showAt": 48.28694534301758,
+            "hideAt": 51.389381408691409
+        },
+        {
+            "lyric": "Kids were laughing in my classes\r",
+            "showAt": 51.389381408691409,
+            "hideAt": 54.27477264404297
+        },
+        {
+            "lyric": "While I was scheming for the masses\r",
+            "showAt": 54.27477264404297,
+            "hideAt": 56.9100456237793
+        },
+        {
+            "lyric": "Who do you think you are?\r",
+            "showAt": 56.9100456237793,
+            "hideAt": 59.92914962768555
+        },
+        {
+            "lyric": "Dreaming 'bout being a big star\r",
+            "showAt": 59.92914962768555,
+            "hideAt": 63.0648193359375
+        },
+        {
+            "lyric": "They say, \"You're basic\", they say, \"You're easy\"\r",
+            "showAt": 63.0648193359375,
+            "hideAt": 65.83299255371094
+        },
+        {
+            "lyric": "You're always riding in the backseat\r",
+            "showAt": 65.83299255371094,
+            "hideAt": 68.56834411621094
+        },
+        {
+            "lyric": "Now I'm smiling from the stage while\r",
+            "showAt": 68.56834411621094,
+            "hideAt": 71.53721618652344
+        },
+        {
+            "lyric": "You were clapping in the nosebleeds\r",
+            "showAt": 71.53721618652344,
+            "hideAt": 74.18916320800781
+        },
+        {
+            "lyric": "Thunder, thunder, thun-\r",
+            "showAt": 74.18916320800781,
+            "hideAt": 76.87449645996094
+        },
+        {
+            "lyric": "Thunder, thun-thun-thunder\r",
+            "showAt": 76.87449645996094,
+            "hideAt": 79.15955352783203
+        },
+        {
+            "lyric": "Thunder, thunder\r",
+            "showAt": 79.15955352783203,
+            "hideAt": 81.12808990478516
+        },
+        {
+            "lyric": "Thunder, thun-, thunder\r",
+            "showAt": 81.12808990478516,
+            "hideAt": 83.67965698242188
+        },
+        {
+            "lyric": "Thun-thun-thunder, thunder\r",
+            "showAt": 83.67965698242188,
+            "hideAt": 85.54802703857422
+        },
+        {
+            "lyric": "Thunder, feel the thunder\r",
+            "showAt": 85.54802703857422,
+            "hideAt": 88.85066986083985
+        },
+        {
+            "lyric": "Lightning and the thunder\r",
+            "showAt": 88.85066986083985,
+            "hideAt": 91.26920318603516
+        },
+        {
+            "lyric": "Thunder, feel the thunder\r",
+            "showAt": 91.26920318603516,
+            "hideAt": 94.50505065917969
+        },
+        {
+            "lyric": "Lightning and the thunder\r",
+            "showAt": 94.50505065917969,
+            "hideAt": 96.64000701904297
+        },
+        {
+            "lyric": "Thunder\r",
+            "showAt": 96.64000701904297,
+            "hideAt": 97.29043579101563
+        },
+        {
+            "lyric": "♪",
+            "showAt": 97.29043579101563,
+            "hideAt": 119.74068450927735
+        },
+        {
+            "lyric": "Thunder, feel the thunder\r",
+            "showAt": 119.74068450927735,
+            "hideAt": 122.85970306396485
+        },
+        {
+            "lyric": "Lightning and the thunder, thunder\r",
+            "showAt": 122.85970306396485,
+            "hideAt": 125.54452514648438
+        },
+        {
+            "lyric": "Thunder, feel the thunder\r",
+            "showAt": 125.54452514648438,
+            "hideAt": 128.6473846435547
+        },
+        {
+            "lyric": "Lightning and the thunder, thunder\r",
+            "showAt": 128.6473846435547,
+            "hideAt": 131.24925231933595
+        },
+        {
+            "lyric": "Thunder, feel the thunder\r",
+            "showAt": 131.24925231933595,
+            "hideAt": 134.53515625
+        },
+        {
+            "lyric": "Lightning and the thunder, thunder\r",
+            "showAt": 134.53515625,
+            "hideAt": 137.0704345703125
+        },
+        {
+            "lyric": "Thunder, feel the thunder (never give up, never give up)\r",
+            "showAt": 137.0704345703125,
+            "hideAt": 140.18894958496095
+        },
+        {
+            "lyric": "Lightning and the thunder, thunder (never give up, never give up)\r",
+            "showAt": 140.18894958496095,
+            "hideAt": 142.7240753173828
+        },
+        {
+            "lyric": "Thunder, feel the thunder (never give up, never give up)\r",
+            "showAt": 142.7240753173828,
+            "hideAt": 145.90965270996095
+        },
+        {
+            "lyric": "Lightning and the thunder, thunder (never give up)\r",
+            "showAt": 145.90965270996095,
+            "hideAt": 148.46163940429688
+        },
+        {
+            "lyric": "Thunder, thunder, thun-\r",
+            "showAt": 148.46163940429688,
+            "hideAt": 151.1300048828125
+        },
+        {
+            "lyric": "Thunder, thun-thun-thunder, thunder\r",
+            "showAt": 151.1300048828125,
+            "hideAt": 154.0988006591797
+        },
+        {
+            "lyric": "Thunder, thunder, thun-\r",
+            "showAt": 154.0988006591797,
+            "hideAt": 156.8679656982422
+        },
+        {
+            "lyric": "Thunder, thun-thun-thunder, thunder\r",
+            "showAt": 156.8679656982422,
+            "hideAt": 159.80343627929688
+        },
+        {
+            "lyric": "Thunder, thunder, thun-\r",
+            "showAt": 159.80343627929688,
+            "hideAt": 162.48892211914063
+        },
+        {
+            "lyric": "Thunder, thun-thun-thunder, thunder\r",
+            "showAt": 162.48892211914063,
+            "hideAt": 165.5742950439453
+        },
+        {
+            "lyric": "Thunder, thunder, thun-, thunder\r",
+            "showAt": 165.5742950439453,
+            "hideAt": 169.32737731933595
+        },
+        {
+            "lyric": "Thun-thun-thunder, thunder",
+            "showAt": 169.32737731933595,
+            "hideAt": 171.36219787597657
+        },
+        {
+            "lyric": "",
+            "showAt": 171.36219787597657,
+            "hideAt": 176.36219787597657
+        }
+    ]
+}

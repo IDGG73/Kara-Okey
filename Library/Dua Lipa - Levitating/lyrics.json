@@ -1,0 +1,389 @@
+{
+    "lyrics": [
+        {
+            "lyric": "♪",
+            "showAt": 0.0,
+            "hideAt": 9.233184814453125
+        },
+        {
+            "lyric": "If you wanna run away with me, I know a galaxy\r",
+            "showAt": 9.233184814453125,
+            "hideAt": 11.316385269165039
+        },
+        {
+            "lyric": "And I can take you for a ride\r",
+            "showAt": 11.316385269165039,
+            "hideAt": 13.716490745544434
+        },
+        {
+            "lyric": "I had a premonition that we fell into a rhythm\r",
+            "showAt": 13.716490745544434,
+            "hideAt": 15.816400527954102
+        },
+        {
+            "lyric": "Where the music don't stop for life\r",
+            "showAt": 15.816400527954102,
+            "hideAt": 18.61670684814453
+        },
+        {
+            "lyric": "Glitter in the sky, glitter in my eyes\r",
+            "showAt": 18.61670684814453,
+            "hideAt": 20.800168991088868
+        },
+        {
+            "lyric": "Shining just the way I like\r",
+            "showAt": 20.800168991088868,
+            "hideAt": 23.11648941040039
+        },
+        {
+            "lyric": "If you're feeling like you need a little bit of company\r",
+            "showAt": 23.11648941040039,
+            "hideAt": 25.1827449798584
+        },
+        {
+            "lyric": "You met me at the perfect time\r",
+            "showAt": 25.1827449798584,
+            "hideAt": 28.2993221282959
+        },
+        {
+            "lyric": "You want me, I want you, baby\r",
+            "showAt": 28.2993221282959,
+            "hideAt": 30.515949249267579
+        },
+        {
+            "lyric": "My sugarboo, I'm levitating\r",
+            "showAt": 30.515949249267579,
+            "hideAt": 32.59923553466797
+        },
+        {
+            "lyric": "The Milky Way, we're renegading\r",
+            "showAt": 32.59923553466797,
+            "hideAt": 34.74932098388672
+        },
+        {
+            "lyric": "Yeah, yeah, yeah, yeah, yeah\r",
+            "showAt": 34.74932098388672,
+            "hideAt": 36.84999465942383
+        },
+        {
+            "lyric": "I got you, moonlight, you're my starlight\r",
+            "showAt": 36.84999465942383,
+            "hideAt": 41.48297119140625
+        },
+        {
+            "lyric": "I need you all night, come on, dance with me\r",
+            "showAt": 41.48297119140625,
+            "hideAt": 45.68394088745117
+        },
+        {
+            "lyric": "I'm levitating\r",
+            "showAt": 45.68394088745117,
+            "hideAt": 46.46711730957031
+        },
+        {
+            "lyric": "You, moonlight, you're my starlight (you're the moonlight)\r",
+            "showAt": 46.46711730957031,
+            "hideAt": 50.76731491088867
+        },
+        {
+            "lyric": "I need you all night, come on, dance with me\r",
+            "showAt": 50.76731491088867,
+            "hideAt": 55.10078048706055
+        },
+        {
+            "lyric": "I'm levitating\r",
+            "showAt": 55.10078048706055,
+            "hideAt": 55.90088653564453
+        },
+        {
+            "lyric": "♪",
+            "showAt": 55.90088653564453,
+            "hideAt": 60.36785888671875
+        },
+        {
+            "lyric": "I believe that you're for me, I feel it in our energy\r",
+            "showAt": 60.36785888671875,
+            "hideAt": 62.667537689208987
+        },
+        {
+            "lyric": "I see us written in the stars\r",
+            "showAt": 62.667537689208987,
+            "hideAt": 65.08460998535156
+        },
+        {
+            "lyric": "We can go wherever, so let's do it now or never, baby\r",
+            "showAt": 65.08460998535156,
+            "hideAt": 67.58413696289063
+        },
+        {
+            "lyric": "Nothing's ever, ever too far\r",
+            "showAt": 67.58413696289063,
+            "hideAt": 69.81742858886719
+        },
+        {
+            "lyric": "Glitter in the sky, glitter in our eyes\r",
+            "showAt": 69.81742858886719,
+            "hideAt": 72.00025177001953
+        },
+        {
+            "lyric": "Shining just the way we are\r",
+            "showAt": 72.00025177001953,
+            "hideAt": 74.34968566894531
+        },
+        {
+            "lyric": "I feel like we're forever, every time we get together\r",
+            "showAt": 74.34968566894531,
+            "hideAt": 76.36643981933594
+        },
+        {
+            "lyric": "But whatever, let's get lost on Mars\r",
+            "showAt": 76.36643981933594,
+            "hideAt": 79.56578063964844
+        },
+        {
+            "lyric": "You want me, I want you, baby\r",
+            "showAt": 79.56578063964844,
+            "hideAt": 81.83242797851563
+        },
+        {
+            "lyric": "My sugarboo, I'm levitating\r",
+            "showAt": 81.83242797851563,
+            "hideAt": 83.93215942382813
+        },
+        {
+            "lyric": "The Milky Way, we're renegading\r",
+            "showAt": 83.93215942382813,
+            "hideAt": 86.0818862915039
+        },
+        {
+            "lyric": "Yeah, yeah, yeah, yeah, yeah\r",
+            "showAt": 86.0818862915039,
+            "hideAt": 88.0983657836914
+        },
+        {
+            "lyric": "I got you, moonlight, you're my starlight\r",
+            "showAt": 88.0983657836914,
+            "hideAt": 92.56434631347656
+        },
+        {
+            "lyric": "I need you all night, come on, dance with me\r",
+            "showAt": 92.56434631347656,
+            "hideAt": 96.88004302978516
+        },
+        {
+            "lyric": "I'm levitating\r",
+            "showAt": 96.88004302978516,
+            "hideAt": 97.6137924194336
+        },
+        {
+            "lyric": "You, moonlight, you're my starlight (you're the moonlight)\r",
+            "showAt": 97.6137924194336,
+            "hideAt": 101.99661254882813
+        },
+        {
+            "lyric": "I need you all night, come on, dance with me\r",
+            "showAt": 101.99661254882813,
+            "hideAt": 106.24559020996094
+        },
+        {
+            "lyric": "I'm levitating (whoo)\r",
+            "showAt": 106.24559020996094,
+            "hideAt": 107.7120361328125
+        },
+        {
+            "lyric": "You can fly away with me tonight\r",
+            "showAt": 107.7120361328125,
+            "hideAt": 110.01223754882813
+        },
+        {
+            "lyric": "You can fly away with me tonight\r",
+            "showAt": 110.01223754882813,
+            "hideAt": 112.1952133178711
+        },
+        {
+            "lyric": "Baby, let me take you for a ride\r",
+            "showAt": 112.1952133178711,
+            "hideAt": 114.02827453613281
+        },
+        {
+            "lyric": "Yeah, yeah, yeah, yeah, yeah\r",
+            "showAt": 114.02827453613281,
+            "hideAt": 115.71102142333985
+        },
+        {
+            "lyric": "I'm levitating (whoo)\r",
+            "showAt": 115.71102142333985,
+            "hideAt": 117.04448699951172
+        },
+        {
+            "lyric": "You can fly away with me tonight\r",
+            "showAt": 117.04448699951172,
+            "hideAt": 119.27748107910156
+        },
+        {
+            "lyric": "You can fly away with me tonight\r",
+            "showAt": 119.27748107910156,
+            "hideAt": 121.47749328613281
+        },
+        {
+            "lyric": "Baby, let me take you for a ride\r",
+            "showAt": 121.47749328613281,
+            "hideAt": 123.34375762939453
+        },
+        {
+            "lyric": "Yeah, yeah, yeah, yeah, yeah (whoo)\r",
+            "showAt": 123.34375762939453,
+            "hideAt": 125.61029052734375
+        },
+        {
+            "lyric": "My love is like a rocket, watch it blast off\r",
+            "showAt": 125.61029052734375,
+            "hideAt": 127.6933822631836
+        },
+        {
+            "lyric": "And I'm feeling so electric, dance my arse off\r",
+            "showAt": 127.6933822631836,
+            "hideAt": 130.209228515625
+        },
+        {
+            "lyric": "And even if I wanted to, I can't stop\r",
+            "showAt": 130.209228515625,
+            "hideAt": 132.52589416503907
+        },
+        {
+            "lyric": "Yeah, yeah, yeah, yeah, yeah\r",
+            "showAt": 132.52589416503907,
+            "hideAt": 134.7257537841797
+        },
+        {
+            "lyric": "My love is like a rocket, watch it blast off\r",
+            "showAt": 134.7257537841797,
+            "hideAt": 136.92552185058595
+        },
+        {
+            "lyric": "And I'm feeling so electric, dance my arse off\r",
+            "showAt": 136.92552185058595,
+            "hideAt": 139.42489624023438
+        },
+        {
+            "lyric": "And even if I wanted to, I can't stop\r",
+            "showAt": 139.42489624023438,
+            "hideAt": 141.90797424316407
+        },
+        {
+            "lyric": "Yeah, yeah, yeah, yeah, yeah\r",
+            "showAt": 141.90797424316407,
+            "hideAt": 145.27435302734376
+        },
+        {
+            "lyric": "You want me, I want you, baby\r",
+            "showAt": 145.27435302734376,
+            "hideAt": 147.09036254882813
+        },
+        {
+            "lyric": "My sugarboo, I'm levitating\r",
+            "showAt": 147.09036254882813,
+            "hideAt": 149.29052734375
+        },
+        {
+            "lyric": "The Milky Way, we're renegading\r",
+            "showAt": 149.29052734375,
+            "hideAt": 153.306640625
+        },
+        {
+            "lyric": "I got you (yeah), moonlight, you're my starlight\r",
+            "showAt": 153.306640625,
+            "hideAt": 157.90618896484376
+        },
+        {
+            "lyric": "I need you all night (all night), come on, dance with me\r",
+            "showAt": 157.90618896484376,
+            "hideAt": 162.20562744140626
+        },
+        {
+            "lyric": "I'm levitating (whoo)\r",
+            "showAt": 162.20562744140626,
+            "hideAt": 163.18881225585938
+        },
+        {
+            "lyric": "You can fly away with me tonight (tonight)\r",
+            "showAt": 163.18881225585938,
+            "hideAt": 165.98846435546876
+        },
+        {
+            "lyric": "You can fly away with me tonight\r",
+            "showAt": 165.98846435546876,
+            "hideAt": 168.1380615234375
+        },
+        {
+            "lyric": "Baby, let me take you for a ride\r",
+            "showAt": 168.1380615234375,
+            "hideAt": 170.0211944580078
+        },
+        {
+            "lyric": "Yeah, yeah, yeah, yeah, yeah (take you for a ride)\r",
+            "showAt": 170.0211944580078,
+            "hideAt": 171.65444946289063
+        },
+        {
+            "lyric": "I'm levitating (whoo)\r",
+            "showAt": 171.65444946289063,
+            "hideAt": 172.82080078125
+        },
+        {
+            "lyric": "You can fly away with me tonight (tonight)\r",
+            "showAt": 172.82080078125,
+            "hideAt": 175.05393981933595
+        },
+        {
+            "lyric": "You can fly away with me tonight\r",
+            "showAt": 175.05393981933595,
+            "hideAt": 177.45355224609376
+        },
+        {
+            "lyric": "Baby, let me take you for a ride\r",
+            "showAt": 177.45355224609376,
+            "hideAt": 179.3866424560547
+        },
+        {
+            "lyric": "Yeah, yeah, yeah, yeah, yeah (let me take you for a ride)\r",
+            "showAt": 179.3866424560547,
+            "hideAt": 181.519775390625
+        },
+        {
+            "lyric": "I got you, moonlight, you're my starlight (you are my starlight)\r",
+            "showAt": 181.519775390625,
+            "hideAt": 185.85256958007813
+        },
+        {
+            "lyric": "I need you all night, come on, dance with me (come on, dance with me, baby)\r",
+            "showAt": 185.85256958007813,
+            "hideAt": 190.15194702148438
+        },
+        {
+            "lyric": "I'm levitating\r",
+            "showAt": 190.15194702148438,
+            "hideAt": 191.06854248046876
+        },
+        {
+            "lyric": "You, moonlight, you're my starlight (you're the moonlight)\r",
+            "showAt": 191.06854248046876,
+            "hideAt": 195.28468322753907
+        },
+        {
+            "lyric": "I need you all night, come on, dance with me\r",
+            "showAt": 195.28468322753907,
+            "hideAt": 199.68394470214845
+        },
+        {
+            "lyric": "I'm levitating\r",
+            "showAt": 199.68394470214845,
+            "hideAt": 200.28395080566407
+        },
+        {
+            "lyric": "",
+            "showAt": 200.28395080566407,
+            "hideAt": 205.28395080566407
+        }
+    ]
+}

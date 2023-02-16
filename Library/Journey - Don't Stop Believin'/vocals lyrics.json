@@ -1,0 +1,234 @@
+{
+    "lyrics": [
+        {
+            "lyric": "♪",
+            "showAt": 0.0,
+            "hideAt": 18.649869918823243
+        },
+        {
+            "lyric": "Just a small town girl\r",
+            "showAt": 18.649869918823243,
+            "hideAt": 22.49968719482422
+        },
+        {
+            "lyric": "Livin' in a lonely world\r",
+            "showAt": 22.49968719482422,
+            "hideAt": 26.666383743286134
+        },
+        {
+            "lyric": "She took the midnight train going anywhere\r",
+            "showAt": 26.666383743286134,
+            "hideAt": 34.899593353271487
+        },
+        {
+            "lyric": "Just a city boy\r",
+            "showAt": 34.899593353271487,
+            "hideAt": 38.43307113647461
+        },
+        {
+            "lyric": "Born and raised in South Detroit\r",
+            "showAt": 38.43307113647461,
+            "hideAt": 42.966556549072269
+        },
+        {
+            "lyric": "He took the midnight train going anywhere\r",
+            "showAt": 42.966556549072269,
+            "hideAt": 50.01692581176758
+        },
+        {
+            "lyric": "♪ suena guitarra rapida",
+            "showAt": 50.01692581176758,
+            "hideAt": 67.40049743652344
+        },
+        {
+            "lyric": "A singer in a smokey room\r",
+            "showAt": 67.40049743652344,
+            "hideAt": 71.06689453125
+        },
+        {
+            "lyric": "A smell of wine and cheap perfume\r",
+            "showAt": 71.06689453125,
+            "hideAt": 75.18316650390625
+        },
+        {
+            "lyric": "For a smile they can share the night\r",
+            "showAt": 75.18316650390625,
+            "hideAt": 77.6329574584961
+        },
+        {
+            "lyric": "It goes on and on and on and on\r",
+            "showAt": 77.6329574584961,
+            "hideAt": 82.282470703125
+        },
+        {
+            "lyric": "Strangers waitin'\r",
+            "showAt": 82.282470703125,
+            "hideAt": 87.06546020507813
+        },
+        {
+            "lyric": "Up and down the boulevard\r",
+            "showAt": 87.06546020507813,
+            "hideAt": 90.26493835449219
+        },
+        {
+            "lyric": "Their shadows searchin' in the night\r",
+            "showAt": 90.26493835449219,
+            "hideAt": 96.64793395996094
+        },
+        {
+            "lyric": "",
+            "showAt": 96.64793395996094,
+            "hideAt": 98.34774780273438
+        },
+        {
+            "lyric": "Streetlights, people\r",
+            "showAt": 98.34774780273438,
+            "hideAt": 103.29713439941406
+        },
+        {
+            "lyric": "Livin' just to find emotion\r",
+            "showAt": 103.29713439941406,
+            "hideAt": 106.51345825195313
+        },
+        {
+            "lyric": "Hidin', somewhere in the night\r",
+            "showAt": 106.51345825195313,
+            "hideAt": 114.49590301513672
+        },
+        {
+            "lyric": "♪",
+            "showAt": 114.49590301513672,
+            "hideAt": 123.61182403564453
+        },
+        {
+            "lyric": "Workin' hard to get my fill\r",
+            "showAt": 123.61182403564453,
+            "hideAt": 127.06157684326172
+        },
+        {
+            "lyric": "Everybody wants a thrill\r",
+            "showAt": 127.06157684326172,
+            "hideAt": 131.0443878173828
+        },
+        {
+            "lyric": "Payin' anything to roll the dice\r",
+            "showAt": 131.0443878173828,
+            "hideAt": 133.5775604248047
+        },
+        {
+            "lyric": "Just one more time\r",
+            "showAt": 133.5775604248047,
+            "hideAt": 137.4936981201172
+        },
+        {
+            "lyric": "",
+            "showAt": 137.4936981201172,
+            "hideAt": 138.87696838378907
+        },
+        {
+            "lyric": "Some'll win, some will lose\r",
+            "showAt": 138.87696838378907,
+            "hideAt": 142.62657165527345
+        },
+        {
+            "lyric": "Some are born to sing the blues\r",
+            "showAt": 142.62657165527345,
+            "hideAt": 146.69288635253907
+        },
+        {
+            "lyric": "Whoa, the movie never ends\r",
+            "showAt": 146.69288635253907,
+            "hideAt": 149.4591522216797
+        },
+        {
+            "lyric": "It goes on and on and on and on\r",
+            "showAt": 149.4591522216797,
+            "hideAt": 153.7921142578125
+        },
+        {
+            "lyric": "Strangers waitin'\r",
+            "showAt": 153.7921142578125,
+            "hideAt": 158.60824584960938
+        },
+        {
+            "lyric": "Up and down the boulevard\r",
+            "showAt": 158.60824584960938,
+            "hideAt": 162.02444458007813
+        },
+        {
+            "lyric": "Their shadows searchin' in the night\r",
+            "showAt": 162.02444458007813,
+            "hideAt": 169.89039611816407
+        },
+        {
+            "lyric": "Streetlights, people\r",
+            "showAt": 169.89039611816407,
+            "hideAt": 174.72325134277345
+        },
+        {
+            "lyric": "Livin' just to find emotion\r",
+            "showAt": 174.72325134277345,
+            "hideAt": 178.03956604003907
+        },
+        {
+            "lyric": "Hidin', somewhere in the night\r",
+            "showAt": 178.03956604003907,
+            "hideAt": 186.02197265625
+        },
+        {
+            "lyric": "♪solo",
+            "showAt": 186.02197265625,
+            "hideAt": 202.1202850341797
+        },
+        {
+            "lyric": "Don't stop believin'\r",
+            "showAt": 202.1202850341797,
+            "hideAt": 206.436279296875
+        },
+        {
+            "lyric": "Hold on to that feelin'\r",
+            "showAt": 206.436279296875,
+            "hideAt": 210.00254821777345
+        },
+        {
+            "lyric": "Streetlights, people oh, oh ohhh!",
+            "showAt": 210.00254821777345,
+            "hideAt": 217.8518829345703
+        },
+        {
+            "lyric": "Don't stop believin'\r",
+            "showAt": 217.8518829345703,
+            "hideAt": 222.50152587890626
+        },
+        {
+            "lyric": "Hold on\r",
+            "showAt": 222.50152587890626,
+            "hideAt": 225.8678741455078
+        },
+        {
+            "lyric": "Streetlights, people oh, oh ohhh!",
+            "showAt": 225.8678741455078,
+            "hideAt": 233.75083923339845
+        },
+        {
+            "lyric": "Don't stop believin'\r",
+            "showAt": 233.75083923339845,
+            "hideAt": 238.5665740966797
+        },
+        {
+            "lyric": "Hold on to that feelin'\r",
+            "showAt": 238.5665740966797,
+            "hideAt": 241.48313903808595
+        },
+        {
+            "lyric": "Streetlights, people oh, oh ohhh!\r",
+            "showAt": 241.48313903808595,
+            "hideAt": 248.09909057617188
+        },
+        {
+            "lyric": "",
+            "showAt": 248.09909057617188,
+            "hideAt": 253.09909057617188
+        }
+    ]
+}

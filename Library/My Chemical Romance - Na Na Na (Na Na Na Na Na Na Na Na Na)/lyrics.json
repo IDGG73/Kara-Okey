@@ -1,0 +1,489 @@
+{
+    "lyrics": [
+        {
+            "lyric": "The future is bulletproof",
+            "showAt": 0.0,
+            "hideAt": 3.0333917140960695
+        },
+        {
+            "lyric": "The aftermath is secondary\r",
+            "showAt": 3.0333917140960695,
+            "hideAt": 5.116591453552246
+        },
+        {
+            "lyric": "It's time to do it now and do it loud\r",
+            "showAt": 5.116591453552246,
+            "hideAt": 7.3663787841796879
+        },
+        {
+            "lyric": "Killjoys, make some noise!",
+            "showAt": 7.3663787841796879,
+            "hideAt": 9.766725540161133
+        },
+        {
+            "lyric": "",
+            "showAt": 9.766725540161133,
+            "hideAt": 12.666664123535157
+        },
+        {
+            "lyric": "  Na, na-na, na-na, na-na, na-na",
+            "showAt": 12.666664123535157,
+            "hideAt": 15.433395385742188
+        },
+        {
+            "lyric": "Na, na-na, na-na, na\r",
+            "showAt": 15.433395385742188,
+            "hideAt": 18.36665916442871
+        },
+        {
+            "lyric": "Na, na-na, na-na, na\r",
+            "showAt": 18.36665916442871,
+            "hideAt": 20.916614532470704
+        },
+        {
+            "lyric": "Na-na, na-na, na-na, na\r",
+            "showAt": 20.916614532470704,
+            "hideAt": 24.06627655029297
+        },
+        {
+            "lyric": "Drugs, gimme drugs, gimme drugs\r",
+            "showAt": 24.06627655029297,
+            "hideAt": 25.866430282592775
+        },
+        {
+            "lyric": "I don't need it, but I'll sell what you got\r",
+            "showAt": 25.866430282592775,
+            "hideAt": 27.81646156311035
+        },
+        {
+            "lyric": "Take the cash and I'll keep it\r",
+            "showAt": 27.81646156311035,
+            "hideAt": 29.449708938598634
+        },
+        {
+            "lyric": "Eight legs to the wall\r",
+            "showAt": 29.449708938598634,
+            "hideAt": 30.849538803100587
+        },
+        {
+            "lyric": "Hit the gas, kill 'em all\r",
+            "showAt": 30.849538803100587,
+            "hideAt": 32.28261947631836
+        },
+        {
+            "lyric": "And we crawl, and we crawl, and we crawl\r",
+            "showAt": 32.28261947631836,
+            "hideAt": 34.416358947753909
+        },
+        {
+            "lyric": "You be my detonator\r",
+            "showAt": 34.416358947753909,
+            "hideAt": 35.5495491027832
+        },
+        {
+            "lyric": "Love, gimme love, gimme love\r",
+            "showAt": 35.5495491027832,
+            "hideAt": 37.43324661254883
+        },
+        {
+            "lyric": "I don't need it, but I'll take what I want from your heart\r",
+            "showAt": 37.43324661254883,
+            "hideAt": 40.24995422363281
+        },
+        {
+            "lyric": "And I'll keep it in a bag, in a box\r",
+            "showAt": 40.24995422363281,
+            "hideAt": 42.23347854614258
+        },
+        {
+            "lyric": "Put an \"X\" on the floor\r",
+            "showAt": 42.23347854614258,
+            "hideAt": 43.86695861816406
+        },
+        {
+            "lyric": "Gimme more, gimme more, gimme more\r",
+            "showAt": 43.86695861816406,
+            "hideAt": 45.917049407958987
+        },
+        {
+            "lyric": "Shut up and sing it with me\r",
+            "showAt": 45.917049407958987,
+            "hideAt": 47.18391418457031
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 47.18391418457031,
+            "hideAt": 48.98371124267578
+        },
+        {
+            "lyric": "From mall security\r",
+            "showAt": 48.98371124267578,
+            "hideAt": 50.16746139526367
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 50.16746139526367,
+            "hideAt": 51.86742401123047
+        },
+        {
+            "lyric": "To every enemy\r",
+            "showAt": 51.86742401123047,
+            "hideAt": 53.134090423583987
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 53.134090423583987,
+            "hideAt": 54.70100402832031
+        },
+        {
+            "lyric": "We're on your property\r",
+            "showAt": 54.70100402832031,
+            "hideAt": 55.867774963378909
+        },
+        {
+            "lyric": "Standing in V formation\r",
+            "showAt": 55.867774963378909,
+            "hideAt": 58.768001556396487
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 58.768001556396487,
+            "hideAt": 60.51780700683594
+        },
+        {
+            "lyric": "Let's blow an artery\r",
+            "showAt": 60.51780700683594,
+            "hideAt": 61.71805953979492
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 61.71805953979492,
+            "hideAt": 63.46815490722656
+        },
+        {
+            "lyric": "Eat plastic surgery\r",
+            "showAt": 63.46815490722656,
+            "hideAt": 64.61811065673828
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 64.61811065673828,
+            "hideAt": 66.38468170166016
+        },
+        {
+            "lyric": "Keep your apology\r",
+            "showAt": 66.38468170166016,
+            "hideAt": 67.46736145019531
+        },
+        {
+            "lyric": "Give us more detonation\r",
+            "showAt": 67.46736145019531,
+            "hideAt": 70.4007568359375
+        },
+        {
+            "lyric": "",
+            "showAt": 70.4007568359375,
+            "hideAt": 73.2499771118164
+        },
+        {
+            "lyric": "More, gimme more, gimme more\r",
+            "showAt": 73.2499771118164,
+            "hideAt": 74.96670532226563
+        },
+        {
+            "lyric": "Oh, let me tell you 'bout the sad man\r",
+            "showAt": 74.96670532226563,
+            "hideAt": 77.6163101196289
+        },
+        {
+            "lyric": "Shut up and let me see your jazz hands\r",
+            "showAt": 77.6163101196289,
+            "hideAt": 80.74932098388672
+        },
+        {
+            "lyric": "Remember when you were a madman\r",
+            "showAt": 80.74932098388672,
+            "hideAt": 82.91580963134766
+        },
+        {
+            "lyric": "Thought you was Batman\r",
+            "showAt": 82.91580963134766,
+            "hideAt": 84.38237762451172
+        },
+        {
+            "lyric": "And hit the party with a gas can\r",
+            "showAt": 84.38237762451172,
+            "hideAt": 86.56531524658203
+        },
+        {
+            "lyric": "Kiss me, you animal\r",
+            "showAt": 86.56531524658203,
+            "hideAt": 87.79842376708985
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 87.79842376708985,
+            "hideAt": 89.58148193359375
+        },
+        {
+            "lyric": "You run the company\r",
+            "showAt": 89.58148193359375,
+            "hideAt": 90.79812622070313
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 90.79812622070313,
+            "hideAt": 92.41443634033203
+        },
+        {
+            "lyric": "Fuck like a Kennedy\r",
+            "showAt": 92.41443634033203,
+            "hideAt": 93.58099365234375
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 93.58099365234375,
+            "hideAt": 95.34725952148438
+        },
+        {
+            "lyric": "I think we'd rather be\r",
+            "showAt": 95.34725952148438,
+            "hideAt": 96.4805908203125
+        },
+        {
+            "lyric": "Burning your information\r",
+            "showAt": 96.4805908203125,
+            "hideAt": 99.29681396484375
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 99.29681396484375,
+            "hideAt": 101.08007049560547
+        },
+        {
+            "lyric": "Let's blow an artery\r",
+            "showAt": 101.08007049560547,
+            "hideAt": 102.26309967041016
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 102.26309967041016,
+            "hideAt": 103.96295928955078
+        },
+        {
+            "lyric": "Eat plastic surgery\r",
+            "showAt": 103.96295928955078,
+            "hideAt": 105.2127914428711
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 105.2127914428711,
+            "hideAt": 106.87899017333985
+        },
+        {
+            "lyric": "Keep your apology\r",
+            "showAt": 106.87899017333985,
+            "hideAt": 108.07901763916016
+        },
+        {
+            "lyric": "Give us more detonation\r",
+            "showAt": 108.07901763916016,
+            "hideAt": 110.92851257324219
+        },
+        {
+            "lyric": "And right here\r",
+            "showAt": 110.92851257324219,
+            "hideAt": 112.42839813232422
+        },
+        {
+            "lyric": "Right now\r",
+            "showAt": 112.42839813232422,
+            "hideAt": 114.26168060302735
+        },
+        {
+            "lyric": "All the way in Battery City\r",
+            "showAt": 114.26168060302735,
+            "hideAt": 116.57804107666016
+        },
+        {
+            "lyric": "The little children\r",
+            "showAt": 116.57804107666016,
+            "hideAt": 118.01112365722656
+        },
+        {
+            "lyric": "Raise their open filthy palms\r",
+            "showAt": 118.01112365722656,
+            "hideAt": 120.26065826416016
+        },
+        {
+            "lyric": "Like tiny daggers up to heaven\r",
+            "showAt": 120.26065826416016,
+            "hideAt": 123.22681427001953
+        },
+        {
+            "lyric": "And all the juvie halls\r",
+            "showAt": 123.22681427001953,
+            "hideAt": 124.96013641357422
+        },
+        {
+            "lyric": "And the Ritalin rats\r",
+            "showAt": 124.96013641357422,
+            "hideAt": 126.74324798583985
+        },
+        {
+            "lyric": "Ask angels made from neon\r",
+            "showAt": 126.74324798583985,
+            "hideAt": 128.55946350097657
+        },
+        {
+            "lyric": "And fucking garbage\r",
+            "showAt": 128.55946350097657,
+            "hideAt": 129.82579040527345
+        },
+        {
+            "lyric": "Scream out, \"What will save us?\"\r",
+            "showAt": 129.82579040527345,
+            "hideAt": 132.6924285888672
+        },
+        {
+            "lyric": "And the sky opened up\r",
+            "showAt": 132.6924285888672,
+            "hideAt": 134.64195251464845
+        },
+        {
+            "lyric": "Everybody wants to change the world\r",
+            "showAt": 134.64195251464845,
+            "hideAt": 137.24172973632813
+        },
+        {
+            "lyric": "Everybody wants to change the world\r",
+            "showAt": 137.24172973632813,
+            "hideAt": 139.50796508789063
+        },
+        {
+            "lyric": "But no one, no one wants to die\r",
+            "showAt": 139.50796508789063,
+            "hideAt": 142.9078826904297
+        },
+        {
+            "lyric": "Wanna try, wanna try, wanna try\r",
+            "showAt": 142.9078826904297,
+            "hideAt": 144.75772094726563
+        },
+        {
+            "lyric": "Wanna try, wanna try, now\r",
+            "showAt": 144.75772094726563,
+            "hideAt": 147.40704345703126
+        },
+        {
+            "lyric": "I'll be your detonator\r",
+            "showAt": 147.40704345703126,
+            "hideAt": 148.5402069091797
+        },
+        {
+            "lyric": "♪",
+            "showAt": 148.5402069091797,
+            "hideAt": 160.1721954345703
+        },
+        {
+            "lyric": "Na, na-na, na-na, na-na, na-na, na-na",
+            "showAt": 160.1721954345703,
+            "hideAt": 163.03863525390626
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 163.03863525390626,
+            "hideAt": 164.80503845214845
+        },
+        {
+            "lyric": "Make no apology\r",
+            "showAt": 164.80503845214845,
+            "hideAt": 166.08819580078126
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 166.08819580078126,
+            "hideAt": 167.70455932617188
+        },
+        {
+            "lyric": "It's death or victory\r",
+            "showAt": 167.70455932617188,
+            "hideAt": 168.87094116210938
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 168.87094116210938,
+            "hideAt": 170.6041259765625
+        },
+        {
+            "lyric": "On my authority\r",
+            "showAt": 170.6041259765625,
+            "hideAt": 171.88723754882813
+        },
+        {
+            "lyric": "Crash and burn, young and loaded\r",
+            "showAt": 171.88723754882813,
+            "hideAt": 174.75376892089845
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 174.75376892089845,
+            "hideAt": 176.40347290039063
+        },
+        {
+            "lyric": "Drop like a bullet shell\r",
+            "showAt": 176.40347290039063,
+            "hideAt": 177.5365753173828
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 177.5365753173828,
+            "hideAt": 179.2698211669922
+        },
+        {
+            "lyric": "Dress like a sleeper cell\r",
+            "showAt": 179.2698211669922,
+            "hideAt": 180.3691864013672
+        },
+        {
+            "lyric": "(Na, na-na, na-na, na-na)\r",
+            "showAt": 180.3691864013672,
+            "hideAt": 182.13607788085938
+        },
+        {
+            "lyric": "I'd rather go to hell\r",
+            "showAt": 182.13607788085938,
+            "hideAt": 183.4357147216797
+        },
+        {
+            "lyric": "Than be in purgatory\r",
+            "showAt": 183.4357147216797,
+            "hideAt": 186.0854034423828
+        },
+        {
+            "lyric": "Cut my hair\r",
+            "showAt": 186.0854034423828,
+            "hideAt": 187.4521026611328
+        },
+        {
+            "lyric": "Gag and bore me\r",
+            "showAt": 187.4521026611328,
+            "hideAt": 189.0182647705078
+        },
+        {
+            "lyric": "Pull this pin\r",
+            "showAt": 189.0182647705078,
+            "hideAt": 190.51785278320313
+        },
+        {
+            "lyric": "Let this world explode",
+            "showAt": 190.51785278320313,
+            "hideAt": 196.53390502929688
+        },
+        {
+            "lyric": "",
+            "showAt": 196.53390502929688,
+            "hideAt": 201.53390502929688
+        }
+    ]
+}
