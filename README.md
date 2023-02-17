@@ -1,2 +1,2 @@
 # Kara-Okey
-Canciones del Kara-Okey
+Canciones y aplicación del Kara-Okey
