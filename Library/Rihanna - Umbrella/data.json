@@ -1,0 +1,14 @@
+{
+    "songName": "Umbrella",
+    "albumName": "Good Girl Gone Bad",
+    "releaseDate": "2007",
+    "artistName": "Rihanna",
+    "bpm": 174,
+    "length": "4:36",
+    "genre": "Pop, Hip-Hop, R&B",
+    "voiceCommandName": "ombrella",
+    "difficulty": 2,
+    "guestArtists": [
+        "Jay Z"
+    ]
+}

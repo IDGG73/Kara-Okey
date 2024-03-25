@@ -1,0 +1,14 @@
+{
+    "songName": "Kiss Me More",
+    "albumName": "Planet Her",
+    "releaseDate": "2021",
+    "artistName": "Doja Cat",
+    "bpm": 111,
+    "length": "3:29",
+    "genre": "Rap, Pop, R&B",
+    "voiceCommandName": "kismi mor",
+    "difficulty": 3,
+    "guestArtists": [
+        "SZA"
+    ]
+}

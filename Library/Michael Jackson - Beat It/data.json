@@ -1,0 +1,12 @@
+{
+    "songName": "Beat It",
+    "albumName": "Thriller",
+    "releaseDate": "1982",
+    "artistName": "Michael Jackson",
+    "bpm": 139,
+    "length": "4:18",
+    "genre": "Pop, Rock",
+    "voiceCommandName": "biret",
+    "difficulty": 3,
+    "guestArtists": []
+}

@@ -1,0 +1,14 @@
+{
+    "songName": "DARE",
+    "albumName": "Demon Days",
+    "releaseDate": "2005",
+    "artistName": "Gorillaz",
+    "bpm": 120,
+    "length": "4:05",
+    "genre": "Electronic, Rock",
+    "voiceCommandName": "der",
+    "difficulty": 1,
+    "guestArtists": [
+        "Shaun Ryder"
+    ]
+}
